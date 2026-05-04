@@ -29,6 +29,12 @@ Pure black background with vibrant neon highlights.
 
 ---
 
+<div>
+<a href="Screenshot_20260504-125622_com.foxdebug.acode.png">Preview 1</a>
+<a href="Screenshot_20260504-125632_com.foxdebug.acode.png">Preview 1</a>
+<a href="Screenshot_20260504-125715_com.foxdebug.acode.png">Preview 1</a>
+</div>
+
 ## Features ✨
 
 - ⚡ Pure **black background** `#000000`
