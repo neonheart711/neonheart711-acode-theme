@@ -16,23 +16,23 @@ Pure black background with vibrant neon highlights.
 
 ## Preview 🎨
 
-| Color | Hex | Usage |
-|-------|-----|-------|
-| 🟩 | `#00ff41` | Foreground / Base text |
-| 🟥 | `#ff0090` | Cursor |
-| 🟪 | `#ff00ff` | Strings |
-| 🟦 | `#00ccff` | Functions |
-| 🟧 | `#ff4500` | Numbers |
-| 🟫 | `#8b00ff` | Comments |
-| 🟨 | `#fede5d` | Storage (var/let/const) |
-| ⬛ | `#000000` | Background |
+| Color | Hex       | Usage                   |
+| ----- | --------- | ----------------------- |
+| 🟩    | `#00ff41` | Foreground / Base text  |
+| 🟥    | `#ff0090` | Cursor                  |
+| 🟪    | `#ff00ff` | Strings                 |
+| 🟦    | `#00ccff` | Functions               |
+| 🟧    | `#ff4500` | Numbers                 |
+| 🟫    | `#8b00ff` | Comments                |
+| 🟨    | `#fede5d` | Storage (var/let/const) |
+| ⬛    | `#000000` | Background              |
 
 ---
 
 <div>
-<img src="Screenshot_20260504-125622_com.foxdebug.acode.png" width"90%">Preview 1</img>
-<img src="Screenshot_20260504-125632_com.foxdebug.acode.png">Preview 1</img>
-<img src="Screenshot_20260504-125715_com.foxdebug.acode.png">Preview 1</img>
+<img src="Screenshot_20260504-125622_com.foxdebug.acode.png" width="90%">Preview 1</img>
+<img src="Screenshot_20260504-125632_com.foxdebug.acode.png" width="90%">Preview 1</img>
+<img src="Screenshot_20260504-125715_com.foxdebug.acode.png"width="90%">Preview 1</img>
 </div>
 
 ## Features ✨
@@ -49,6 +49,7 @@ Pure black background with vibrant neon highlights.
 ## Installation 📲
 
 ### From Acode Plugin Store
+
 1. Open **Acode**
 2. Go to **Plugins**
 3. Search **neonheart711**
@@ -56,6 +57,7 @@ Pure black background with vibrant neon highlights.
 5. Go to **Settings → Editor Theme → neonheart711 Theme**
 
 ### Manual Installation
+
 1. Download the latest `.zip` from [Releases](https://github.com/neonheart711/neonheart711-acode-theme/releases)
 2. Open **Acode → Plugins → Install from file**
 3. Select the downloaded `.zip`
@@ -64,11 +66,11 @@ Pure black background with vibrant neon highlights.
 
 ## Compatibility 🔧
 
-| Acode Version | Engine | Status |
-|---------------|--------|--------|
-| < 1.11.x | Ace | ✅ Works |
-| 1.11.x | Ace | ✅ Works |
-| 1.12.x+ | CodeMirror 6 | ✅ Works |
+| Acode Version | Engine       | Status   |
+| ------------- | ------------ | -------- |
+| < 1.11.x      | Ace          | ✅ Works |
+| 1.11.x        | Ace          | ✅ Works |
+| 1.12.x+       | CodeMirror 6 | ✅ Works |
 
 ---
 
