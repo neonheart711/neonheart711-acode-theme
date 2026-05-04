@@ -30,7 +30,7 @@ Pure black background with vibrant neon highlights.
 ---
 
 <div>
-<img src="Screenshot_20260504-125622_com.foxdebug.acode.png" width="90%"  align="center">Preview 1</img>
+<img src="Screenshot_20260504-125622_com.foxdebug.acode.png" width="90%" align="center">Preview 1</img>
 <img src="Screenshot_20260504-125632_com.foxdebug.acode.png" width="90%" align="center">Preview 1</img>
 <img src="Screenshot_20260504-125715_com.foxdebug.acode.png"width="90%" align="center">Preview 1</img>
 </div>
